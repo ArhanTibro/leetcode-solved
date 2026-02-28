@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

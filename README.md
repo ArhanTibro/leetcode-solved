@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0909-snakes-and-ladders](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0909-snakes-and-ladders](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0909-snakes-and-ladders](https://github.com/ArhanTibro/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Union-Find
 |  |
 | ------- |
